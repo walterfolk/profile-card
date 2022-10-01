@@ -85,7 +85,7 @@ body {
     color: hsl(0, 0%, 59%);
     letter-spacing: .2rem;
 }
-.stats h5.values {
+.stats h3.values {
     font-size: 1.3rem;
     color: hsl(229, 23%, 23%);
     font-weight: 700;
